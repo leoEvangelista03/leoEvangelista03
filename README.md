@@ -19,17 +19,18 @@ Below are listed some of the knowledge acquired or being studied throughout my j
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+  
 #### Some of my hobbies:
 - Skateboarding;
 - Muay Thai;
 - Drawing;
 - lot of other things heheh
 
-
-
-
-
-<div align="center">
+ <br>
+ <br>
+  
+#### About my github:  <br>
+<div align="left">
   <a href="https://github.com/leoEvangelista03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoEvangelista03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
