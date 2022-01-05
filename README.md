@@ -1,7 +1,7 @@
 ### Hi there! I'm Leo and I'm 18 years old. I am currently a freshman at FIAP and I’m also on a Data Science Bootcamp taught by DS Academy.
 
 Over the last months, I've been developing my knowledge in data science, from recognizing and understanding the business and it's 
-problems until importing, cleaning, manipulating, visualizing and analysing data, in addition to machine learning techniques. I love working with data because it is in everything ad I am passionate about it’s power and how it can positively impact our society.
+problems until importing, cleaning, manipulating, visualizing and analysing data, in addition to machine learning techniques. I love working with data because it is in everything and I am passionate about it’s power and how it can positively impact our society.
 
 Below are listed some of the knowledge acquired or being studied throughout my journey:
 
