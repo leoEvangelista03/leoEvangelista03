@@ -3,8 +3,7 @@
 Over the last months, I've been developing my knowledge in data science, from recognizing and understanding the business and it's 
 problems until importing, cleaning, manipulating, visualizing and analysing data, in addition to machine learning techniques. I love working with data because it is in everything and I am passionate about it’s power and how it can positively impact our society.
 
-Below are listed some of the knowledge acquired or being studied throughout my journey:
-
+Techs:
 - Python - NumPy, Pandas, Matplotlib, Seaborn, Scikit Learn;
 - Apache Spark - PySpark, SparkSQL, Spark Streaming e Spark MLlib;
 - SQL;
@@ -23,8 +22,8 @@ Below are listed some of the knowledge acquired or being studied throughout my j
 #### Some of my hobbies:
 - Skateboarding;
 - Muay Thai;
-- Drawing;
-- lot of other things heheh
+- Sitcoms;
+- Lot of other things heheh
 
  <br>
  <br>
