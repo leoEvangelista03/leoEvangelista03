@@ -1,4 +1,4 @@
-### Hi there! I'm Leo, I'm 18 years old and I'm a Data Analysis Intern at Nokia ACS and CNS. 
+### Hi there! I'm Leo, I'm 18 years old and I'm a Data Analysis Intern at Nokia ACS|CNS.
 
 #### Basic Info:
 - I am currently a freshman at FIAP and I’m also on a Data Science Bootcamp taught by DS Academy. 
