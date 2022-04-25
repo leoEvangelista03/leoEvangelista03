@@ -1,13 +1,16 @@
-### Hi there! I'm Leo and I'm 18 years old. I am currently a freshman at FIAP and I’m also on a Data Science Bootcamp taught by DS Academy.
+### Hi there! I'm Leo, I'm 18 years old and I'm a Data Analysis Intern at Nokia ACS and CNS. 
 
-Over the last months, I've been developing my knowledge in data science, from recognizing and understanding the business and it's 
-problems until importing, cleaning, manipulating, visualizing and analysing data, in addition to machine learning techniques. I love working with data because it is in everything and I am passionate about it’s power and how it can positively impact our society.
+#### Basic Info:
+- I am currently a freshman at FIAP and I’m also on a Data Science Bootcamp taught by DS Academy. 
+- I love working with data because it is in everything and I am passionate about it’s power and how it can positively impact our society.
+- Knowledge in data science, from recognizing the business and understanding it's problems until importing, cleaning, manipulating, visualizing and analysing data, in addition to machine learning techniques that can bring more value and insights.
 
-Techs:
+#### Techs:
 - Python - NumPy, Pandas, Matplotlib, Seaborn, Scikit Learn;
 - Apache Spark - PySpark, SparkSQL, Spark Streaming e Spark MLlib;
-- SQL;
-- R.
+- SQL - DQL, DML, DDL;
+- R;
+- Tableau;
 - I have also studied Java, Kotlin, HTML5 and CSS3, having some basic knowledge about them.
 <div style="display: inline_block"><br>
   <div align = "center">
@@ -19,12 +22,6 @@ Techs:
 </div>
 
   
-#### Some of my hobbies:
-- Skateboarding;
-- Muay Thai;
-- Sitcoms;
-- Lot of other things heheh
-
  <br>
  <br>
   
