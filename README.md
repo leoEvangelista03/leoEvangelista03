@@ -6,27 +6,27 @@
 - Passionate about the power of data and how technology can positively impact our society.
 
 ### Skills:
-• Data Analysis;
-• Machine Learning;
-• Data Visualization;
-• Data Modeling;
-• Business Analytics and
+- Data Analysis;
+- Machine Learning;
+- Data Visualization;
+- Data Modeling;
+- Business Analytics and
 development;
-• Problem Solving;
-• Data Extraction;
-• ETL;
-• Programming.
+- Problem Solving;
+- Data Extraction;
+- ETL;
+- Programming.
 
 ### Techs: 
-• Python - NumPy, Pandas, Matplotlib, Seaborn, Scikit Learn;
-• SQL - PL/SQL, DQL, DML, DDL;
-• Apache Spark - PySpark, SparkSQL, Spark Streaming and Spark MLlib;
-• R for data science;
-• Apache NiFi;
-• Tableau;
-• Unix - Ubuntu, CentOS, MacOS;
-• Microsoft VBA.
-• Java, Kotlin, HTML5 e CSS3.
+- Python - NumPy, Pandas, Matplotlib, Seaborn, Scikit Learn;
+- SQL - PL/SQL, DQL, DML, DDL;
+- Apache Spark - PySpark, SparkSQL, Spark Streaming and Spark MLlib;
+- R for data science;
+- Apache NiFi;
+- Tableau;
+- Unix - Ubuntu, CentOS, MacOS;
+- Microsoft VBA.
+- Java, Kotlin, HTML5 e CSS3.
 
 <div style="display: inline_block"><br>
   <div align = "center">
