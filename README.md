@@ -1,17 +1,33 @@
-### Hi there! I'm Leo, I'm 18 years old and I'm a Data Analysis Intern at Nokia ACS|CNS.
+### Hi there! I'm Leo, a Data Analysis Intern at Nokia ACS|CNS.
 
-#### Basic Info:
-- I am currently a freshman at FIAP and I’m also on a Data Science Bootcamp taught by DS Academy. 
-- I love working with data because it is in everything and I am passionate about it’s power and how it can positively impact our society.
-- Knowledge in data science, from recognizing the business and understanding it's problems until importing, cleaning, manipulating, visualizing and analysing data, in addition to machine learning techniques that can bring more value and insights.
 
-#### Techs:
-- Python - NumPy, Pandas, Matplotlib, Seaborn, Scikit Learn;
-- Apache Spark - PySpark, SparkSQL, Spark Streaming e Spark MLlib;
-- SQL - DQL, DML, DDL;
-- R;
-- Tableau;
-- I have also studied Java, Kotlin, HTML5 and CSS3, having some basic knowledge about them.
+#### About me:
+- Analytical, dynamic, flexible, curious and always looking to learn and innovate. 
+- Passionate about the power of data and how technology can positively impact our society.
+
+### Skills:
+• Data Analysis;
+• Machine Learning;
+• Data Visualization;
+• Data Modeling;
+• Business Analytics and
+development;
+• Problem Solving;
+• Data Extraction;
+• ETL;
+• Programming.
+
+### Techs: 
+• Python - NumPy, Pandas, Matplotlib, Seaborn, Scikit Learn;
+• SQL - PL/SQL, DQL, DML, DDL;
+• Apache Spark - PySpark, SparkSQL, Spark Streaming and Spark MLlib;
+• R for data science;
+• Apache NiFi;
+• Tableau;
+• Unix - Ubuntu, CentOS, MacOS;
+• Microsoft VBA.
+• Java, Kotlin, HTML5 e CSS3.
+
 <div style="display: inline_block"><br>
   <div align = "center">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
