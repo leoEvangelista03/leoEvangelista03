@@ -24,8 +24,8 @@ development;
 - R for data science;
 - Apache NiFi;
 - Tableau;
-- Unix - Ubuntu, CentOS, MacOS;
-- Microsoft VBA.
+- Linux;
+- Microsoft VBA;
 - Java, Kotlin, HTML5 e CSS3.
 
 <div style="display: inline_block"><br>
