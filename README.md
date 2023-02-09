@@ -1,4 +1,4 @@
-### Hi there! I'm Leo, a Data Analysis Intern at Nokia ACS|CNS.
+### Hi there! I'm Leo, a Data Analysis Intern at BTG Pactual, Brazil.
 
 
 #### About me:
@@ -21,6 +21,7 @@ development;
 - Python - NumPy, Pandas, Matplotlib, Seaborn, Scikit Learn;
 - SQL - PL/SQL, DQL, DML, DDL;
 - Apache Spark - PySpark, SparkSQL, Spark Streaming and Spark MLlib;
+- PowerBI;
 - R for data science;
 - Apache NiFi;
 - Tableau;
