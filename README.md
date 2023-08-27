@@ -1,4 +1,4 @@
-### Hi there! I'm Leo, a Data Analysis Intern at BTG Pactual, Brazil.
+### Hi there! I'm Leo, a Data Analyst at BTG Pactual.
 
 
 #### About me:
@@ -13,7 +13,6 @@
 - Business Analytics and
 development;
 - Problem Solving;
-- Data Extraction;
 - ETL;
 - Programming.
 
@@ -22,7 +21,9 @@ development;
 - SQL - PL/SQL, DQL, DML, DDL;
 - Apache Spark - PySpark, SparkSQL, Spark Streaming and Spark MLlib;
 - PowerBI;
-- R for data science;
+- Tableau;
+- AWS - EMR, S3, Redshift, Athena, Lambda
+- R;
 - Apache NiFi;
 - Tableau;
 - Linux;
